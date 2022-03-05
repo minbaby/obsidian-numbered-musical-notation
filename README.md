@@ -70,3 +70,8 @@ Quick starting guide for new plugin devs:
 ### API Documentation
 
 See https://github.com/obsidianmd/obsidian-api
+
+
+### PS
+
+- https://github.com/muzenplaats/musje
